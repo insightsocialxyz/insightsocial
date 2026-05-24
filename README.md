@@ -1,11 +1,10 @@
 # InsightSocial — Multi-platform social media scraper
 
 > One-click data export from Facebook, Instagram, TikTok, X (Twitter), LinkedIn, and Threads.
-> Runs as a Chrome extension. No code. Free 10 runs/month.
+> Runs as a Chrome extension. No code required.
 
 [**Install from Chrome Web Store →**](https://chrome.google.com/webstore/detail/<id>)
 &nbsp;·&nbsp; [Website](https://www.insightsocial.xyz)
-&nbsp;·&nbsp; [Pricing](https://www.insightsocial.xyz/pricing)
 &nbsp;·&nbsp; [Use cases](https://www.insightsocial.xyz/use-cases)
 &nbsp;·&nbsp; [What's new](https://www.insightsocial.xyz/whats-new)
 
@@ -55,18 +54,6 @@ InsightSocial scrapes the social platforms you're already logged into — direct
     </td>
   </tr>
 </table>
-
-## Pricing
-
-| Plan | Runs / month | Price |
-|---|---|---|
-| **Free** | 10 | $0 |
-| **Pro Monthly** | 300 | $4.99 / month |
-| **Pro Yearly** | 3,600 upfront | $47.88 / year ($3.99 / mo) |
-
-One "run" = one scrape session (unlimited posts inside it). [**Refer a friend**](https://www.insightsocial.xyz/referral) and you both get +10 bonus runs — they never expire.
-
-[See full pricing →](https://www.insightsocial.xyz/pricing)
 
 ## Use cases
 
