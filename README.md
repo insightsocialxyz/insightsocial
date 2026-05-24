@@ -76,7 +76,7 @@ No — schedules run via Chrome alarms, which require the browser to be open. We
 Locally in your browser (IndexedDB) until you choose to sync. Synced data lives in our database under your account only.
 
 **Is there an API?**
-The web app's REST API powers our own extension and is documented at [insightsocial.xyz/docs](https://www.insightsocial.xyz/docs). It is not yet a public/programmatic API — talk to us if you need that.
+Not yet a public/programmatic API — talk to us if you need that.
 
 ## Roadmap
 
