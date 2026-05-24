@@ -9,7 +9,9 @@
 &nbsp;·&nbsp; [Use cases](https://www.insightsocial.xyz/use-cases)
 &nbsp;·&nbsp; [What's new](https://www.insightsocial.xyz/whats-new)
 
-![InsightSocial sidepanel screenshot](screenshots/hero.png)
+![Instagram hashtag results in the InsightSocial web portal — 500 creators with contact info, follower counts, engagement rate, and bio fields](screenshots/instagram-result-page.png)
+
+*Example: scraping `#fitness` on Instagram. 500 creator profiles with contact info, engagement rates, and bios — exportable to CSV in one click.*
 
 ---
 
@@ -35,7 +37,24 @@ InsightSocial scrapes the social platforms you're already logged into — direct
 3. **Click the InsightSocial side panel** and pick what to scrape. The extension scrolls + collects in the background.
 4. **Export** to CSV or JSON, or view results in the [web portal](https://www.insightsocial.xyz/portal).
 
-![Scraping flow GIF](screenshots/flow.gif)
+### See it in action
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/instagram-hashtag.png" alt="InsightSocial side panel detecting an Instagram hashtag and showing scrape configuration" /><br/>
+      <sub><b>1. Detect & configure</b><br/>Side panel auto-detects the page type and shows what's scrapeable.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/instagram-scraping.png" alt="Live progress: scraping profile 7 of 100 from #fitness hashtag" /><br/>
+      <sub><b>2. Scrape live</b><br/>Real-time progress, ETA, and a queue of what's being collected.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/instagram-result-screen.png" alt="Scrape complete: 500 posts, 500 authors, 30.5K likes from #fitness" /><br/>
+      <sub><b>3. Done</b><br/>Summary stats, then jump to the full results table.</sub>
+    </td>
+  </tr>
+</table>
 
 ## Pricing
 
