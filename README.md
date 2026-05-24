@@ -34,7 +34,7 @@ InsightSocial scrapes the social platforms you're already logged into — direct
 1. **Install** the extension from the Chrome Web Store.
 2. **Open** a supported page (e.g. an Instagram hashtag, a Facebook group, a TikTok profile).
 3. **Click the InsightSocial side panel** and pick what to scrape. The extension scrolls + collects in the background.
-4. **Export** to CSV or JSON, or view results in the [web portal](https://www.insightsocial.xyz/portal).
+4. **Export** to CSV or JSON, or view results in the [web portal](https://www.insightsocial.xyz/portal/history).
 
 ### See it in action
 
@@ -89,7 +89,7 @@ The web app's REST API powers our own extension and is documented at [insightsoc
 ## Support
 
 - Email: **insightsocial.xyz@gmail.com**
-- Web portal: **https://www.insightsocial.xyz/portal**
+- Web portal: **https://www.insightsocial.xyz/portal/history**
 
 ## About
 
