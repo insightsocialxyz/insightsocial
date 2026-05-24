@@ -94,7 +94,7 @@ Not yet a public/programmatic API — talk to us if you need that.
 ## About
 
 InsightSocial is built by independent makers shipping in public. Follow along:
-- Twitter/X: [@insightsocial](https://x.com/insightsocial)
+- Twitter/X: [@dovy_dev](https://x.com/dovy_dev)
 - Blog: [insightsocial.xyz/blog](https://www.insightsocial.xyz/blog)
 
 ---
